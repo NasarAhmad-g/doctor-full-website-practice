@@ -26,7 +26,7 @@ const Banner = () => {
                             Your New Smile <br />
                             Starts Heare
                         </Typography>
-                        <Typography variant='h5' sx={{fontSize:12, color:'gray',fontWeight:300}}>
+                        <Typography variant='h5' sx={{my:3, fontSize:12, color:'gray',fontWeight:300}}>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed culpa cumque enim! Voluptatibus aliquid expedita saepe accusantium itaque ducimus rem voluptas
                         </Typography>
                         <Button style={{ backgroundColor: "#5CE7ED" }} variant="contained">Learn More</Button>
